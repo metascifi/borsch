@@ -42,7 +42,7 @@ header {
   justify-content: space-between;
   background-color: #dc2121;
   color: yellow;
-  font-family: v;
+  flex-wrap: wrap;
 }
 
 
